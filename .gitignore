@@ -1,5 +1,7 @@
 # custom files
 # custom/
+custom/plugins/zsh-autosuggestions/
+custom/plugins/zsh-syntax-highlighting/
 
 # temp files directories
 cache/
